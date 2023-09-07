@@ -248,7 +248,7 @@
 
 
 
-#Continue{
+.botao, #Continue{
     display: flex;
     margin-top: 40px;
     cursor: pointer;
@@ -265,4 +265,11 @@
     user-select: none;
 
 
+
+
+
+}
+
+#Continue:hover{
+    background-color: hsl(234, 85%, 45%) ;   
 }
