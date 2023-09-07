@@ -1,0 +1,268 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,500;0,700;1,800&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 500;
+}
+
+.body {
+    font-size: 18px;
+
+
+}
+
+.Containner {
+    display: inline-flex;
+    text-align: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    background-image: linear-gradient(to bottom, hsl(0, 0%, 100%), hsl(221, 100%, 96%));
+
+
+}
+
+
+
+.Resultados {
+    width: 300px;
+    height: 420px;
+    border: 1px none;
+    border-radius: 7%;
+    background-image: linear-gradient(to top, hsl(241, 81%, 54%), hsl(252, 100%, 67%));
+    border-right: none;
+    padding: 5px;
+
+
+}
+
+
+.result4, #texto2{
+    user-select: none;
+    color: hsla(222, 100%, 96%, 0.562);
+    font-weight: 500;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-inline: 20px;
+}
+
+
+
+.Sumario {
+    width: 300px;
+    height: 420px;
+    border: 1px none;
+    box-shadow: 8px 3px 15px -7px hsl(241, 100%, 89%);
+    border-radius: 15px;
+    border-left: none;
+    padding: 10px;
+
+}
+
+#Summary{
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+.result1 {
+    user-select: none;
+    margin-top: 20px;
+    color: hsla(222, 100%, 96%, 0.63);
+    font-size: 16px;
+    font-weight: 700;
+}
+
+
+.result2 {
+    user-select: none;
+    align-items: center;
+    justify-content: center;
+    border: 1px none;
+    background-image: linear-gradient(to bottom, hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0));
+    border-radius: 50%;
+    padding: 35px;
+    margin-left: 60px;
+    margin-top: 30px;
+    margin-right: 60px;
+    margin-bottom: 15px;
+
+}
+
+.Number {
+    margin-top: 10px;
+    font-size: 60px;
+    color: white;
+}
+
+.Number1 {
+    color: hsla(222, 100%, 96%, 0.390);
+    font-size: 15px;
+}
+
+.result3,#texto1 {
+    user-select: none;
+    color: white;
+    margin-bottom: 1px;
+    font-weight: 500;
+    font-size: 28px;
+
+}
+
+.fdsrwquj{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.f30_, .f31_, .f32_, .f33_{
+    margin-top: 15px;
+}
+
+#Reaction{
+    font-weight: 500;
+    color: hsl(0, 100%, 67%);
+    padding-right: 75px
+}
+
+#img1{
+    margin-right: 10px;
+
+}
+
+#NumberSpace1{
+    font-weight: 700;
+}
+
+
+#NumberObfuscate{
+    margin-left: 5px;
+    font-weight: 800;
+    color: hsla(210, 2%, 24%, 0.404);
+}
+
+.f30_{
+    display: flex;
+    border: 1px none;
+    background-image: linear-gradient(to right, rgba(255, 87, 87, 0.089), hsla(241, 100%, 89%, 0.11));
+    border-radius: 8px;
+    padding: 10px;
+
+}
+
+
+.f31_{
+    display: flex;
+    user-select: none;
+    border: 1px none;
+    background-image: linear-gradient(to right, rgba(255, 177, 31, 0.089), hsla(241, 100%, 89%, 0.11));
+    border-radius: 8px;
+    padding: 10px;
+}
+
+#img2{
+    margin-right: 10px;
+}
+
+#Memory{
+    font-weight: 500;
+    color: hsl(39, 100%, 56%);
+    padding-right: 78px;
+}
+
+#NumberSpace2{
+    font-weight: 700;
+}
+
+#NumberObfuscate1{
+    margin-left: 5px;
+    font-weight: 800;
+    color: hsla(210, 2%, 24%, 0.404);
+}
+
+
+.f32_{
+    display: flex;
+    user-select: none;
+    border: 1px none;
+    background-image: linear-gradient(to right, rgba(167, 255, 94, 0.089), hsla(241, 100%, 89%, 0.11));
+    border-radius: 8px;
+    padding: 10px;
+}
+
+#img3{
+    margin-right: 10px;
+}
+
+
+#Verbal{
+    font-weight: 500;
+    color: hsl(166, 100%, 37%);
+    padding-right: 91px;
+}
+
+
+#NumberSpace3{
+    font-weight: 700;
+}
+
+#NumberObfuscate2{
+    margin-left: 5px;
+    font-weight: 800;
+    color: hsla(210, 2%, 24%, 0.404);
+}
+
+.f33_{
+    display: flex;
+    user-select: none;
+    border: 1px none;
+    background-image: linear-gradient(to right, hsla(234, 85%, 45%, 0.089), hsla(241, 100%, 89%, 0.11));
+    border-radius: 8px;
+    padding: 10px;
+}
+
+
+#img4{
+    margin-right: 10px;
+}
+
+#Visual{
+    font-weight: 500;
+    color: hsla(234, 85%, 45%);
+    padding-right: 94px;
+}
+
+#NumberSpace4{
+    font-weight: 700;
+}
+
+#NumberObfuscate3{
+    margin-left: 5px;
+    font-weight: 800;
+    color: hsla(210, 2%, 24%, 0.404);
+}
+
+
+
+#Continue{
+    display: flex;
+    margin-top: 40px;
+    cursor: pointer;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+    width: 250px;
+    height: 50px;
+    font-weight: 500;
+    font-size: 15px;
+    color: white;
+    background-color: hsl(224, 30%, 27%);
+    user-select: none;
+
+
+}
