@@ -20,7 +20,7 @@
     width: 100vw;
     height: 100vh;
     justify-content: center;
-    background-image: linear-gradient(to bottom, hsl(0, 0%, 100%), hsl(221, 100%, 96%));
+    background-color:hsl(0, 0%, 100%);
 
 
 }
